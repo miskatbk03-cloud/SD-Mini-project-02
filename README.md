@@ -1,10 +1,15 @@
-# SD-Mini-project-02
 # Food Mood: Responsive Restaurant Website
 
 **Course:** Software Development I (CSE-2340)
 **Assignment:** MP2: Responsive Website Development
 **Owner / Student:** Miskat BK
 **GitHub:** [miskatbk03-cloud](https://github.com/miskatbk03-cloud)
+
+## Live Demo
+
+**View the live site:** https://miskatbk03-cloud.github.io/SD-Mini-project-02/
+
+**Repository:** https://github.com/miskatbk03-cloud/SD-Mini-project-02
 
 ## About
 
